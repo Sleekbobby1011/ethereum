@@ -1,0 +1,9 @@
+- [[Philosophy]]
+- [[Technology]]
+- News (Twitter, GH)
+- [[People]] (Leadership bios)
+- [[Projects]] (SRO, W3C)
+- [[Ethersale]] (description & documents relating to ethersale)
+- Network (link to network.ethdev.com)
+- Contact (Switzerland address, ethersale support)
+- ÐΞV (ethdev site)
