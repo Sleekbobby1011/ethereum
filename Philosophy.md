@@ -1,12 +1,44 @@
-### Accessibility
+### Philosophy
 
-Ethereum is a protocol that is open to all. Any programmer should be able to write smart contracts and Ethereum ÐApps in languages and environments that are maximally easy to use, without needing to write or copy large pieces of boilerplate material for every new project. The specification should be designed to be simple whenever possible, and should be formally specified and well-described so that programmers can implement the entire specification if need be on their own. Partnered with the Whisper and Swarm protocols, Ethereum lays the foundations for a P2P Web 3.0.
 
-### Universality
-Ethereum does not have "features". Unlike many other protocols that came before it, Ethereum does not attempt to circumscribe a specific set of things that can be done with the platform and limit itself to the execution of those operations. Instead, Ethereum provides scripting languages which you can use to construct any program you can think on top of a distributed P2P network. This has implications going far beyond finance and smart contracts. Imagine what sort of problems could be solved if any software could be executed in a P2P network, and could be always auditable and always trustable. This opens the door to the rapid development of voting machines, health care systems, traffic navigation, land registry etc. where users stay in control of their funds and personal information at all times, as part of a network that's both censorship and collusion-proof.
 
-### Modularity
-Different elements of the Ethereum protocol should be designed to be as modular and autonomous as possible. During the course of development and up to the release of the genesis block, it should be easy to make small modifications to the protocol in one place and have the entire stack continue to function as normal. Innovations such as our Proof of Work algorithm, Patricia Trees, virtual machine, serialization and block algorithm are implemented as separate libraries and made feature-complete even if Ethereum does not require their entire feature set, this makes it easy for any project looking to utilise Ethereum’s open source technology to do so. The development of Ethereum should benefit the entire cryptocurrency ecosystem.
 
-### Non-Discrimination
-The protocol should not attempt to actively restrict or prevent specific categories of usage. The regulatory mechanisms in the protocol should only be designed to regulate harm, not attempt to oppose specific applications that are deemed to be "wasteful". If you are willing to pay the fee for your transaction to be processed by the network, then it's clearly not wasteful to you, and the Ethereum protocol respects your judgement.
+### Blurb
+
+Most of the services you use today have something in common: they are centralized. When you deposit money at your bank, post pictures on Facebook or send an email to your friend, you are trusting them to be honest, highly diligent about their security and as interested in protecting your privacy and well-being as you are. History has shown that in reality, this is not nearly always in fact the case. Unfortunately, as flawed as this model is, for technological reasons it has so far been necessary; there was simply no other way to use a digital or financial service without someone, somewhere, being a single point of failure and a trusted operator at the helm.
+
+Enter Ethereum.
+
+Ethereum is a platform that integrates the latest developments in cryptography and cryptoeconomics, branches of computer science that deal with the precise question of how to build services without the need for single points of failure and without the need for trust, instead providing hard quantifiable assurances of security. By using tools such as public key cryptography, distributed hash tables and the Ethereum blockchain, Ethereum not only has the potential to resolve the above issues in industries that already exist, but also open the door to whole new kinds of applications that we have never seen before.
+
+### Technology
+
+Ethereum is a platform that makes it much easier to develop and use next-generation decentralized applications.
+
+2
+
+Ether, Ethereum's cryptofuel, powers the applications on the decentralized network.
+
+3
+
+A small amount of ether is required in order to send any transaction, and the more computation a transaction requires the more ether it consumes.
+
+4
+
+A contract is a program that lives inside of Ethereum's secure, decentralized environment. Contracts are the main building blocks of Ethereum.
+
+5
+
+Sending a transaction to a contract causes its code to execute. Contracts can store data, send transactions and interact with other contracts.
+
+6
+
+Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
+
+7
+
+Mist, the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
+
+8
+
+Ethereum can be used as a building block to help codify, decentralize, secure and trade almost anything.
