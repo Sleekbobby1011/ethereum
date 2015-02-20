@@ -2,7 +2,7 @@
 - [[Technology]]
 - News (Twitter, GH)
 - [[People]] (Leadership bios)
-- [[Projects]] (SRO, W3C)
+- [[Foundation]]
 - [[Ethersale]] (description & documents relating to ethersale)
 - Network (link to network.ethdev.com) - Bring online once we have Marian's initial network status site.
 - Contact (Switzerland address, ethersale support)
