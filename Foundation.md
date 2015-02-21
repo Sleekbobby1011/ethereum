@@ -6,7 +6,7 @@ To that end, aside from its expenditures supporting Ethereum development, the Et
 
 ![](http://vitalik.ca/files/ccrg.png)
 
-The Cryptocurrency Research Group (see: http://ccrg.org) is the first multidisciplinary cross-industry research organization dedicated to solving the hard problems in cryptocurrency, including technical issues of consensus and scalability, development and evaluation of game-theoretic mechanisms useful in many kinds of smart contracts, as well as legal and practical issues relating to the intersection of the cryptographic world and the real world. The CCRG will be involved in funding projects, organizing conferences and maintaining materials such as a forum, wiki and blog with high-quality curated information relevant to cryptocurrency research and design. The Ethereum Foundation is providing an initial grant to the CCRG, but the organization is in the process of actively expanding to include multiple stakeholders from academia, business and elsewhere.
+The Cryptocurrency Research Group (see: http://ccrg.org) is the first multidisciplinary cross-industry research organization dedicated to solving the hard problems in cryptocurrency, including technical issues of consensus and scalability, development and evaluation of game-theoretic mechanisms useful in many kinds of smart contracts, as well as legal and practical issues relating to the intersection of the cryptographic world and the real world. The CCRG will be involved in funding projects, organizing conferences and maintaining materials such as a forum, wiki and blog with high-quality curated information relevant to cryptocurrency research and design.
 
 ### W3C
 
