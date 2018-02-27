@@ -1,6 +1,4 @@
-For development specification: 
-
-Design Rationale: https://web.archive.org/web/20141009231857/https://ethereum.org/pdfs/Ethereum-Dev-Plan-preview.pdf
+For development specification: https://web.archive.org/web/20141009231857/https://ethereum.org/pdfs/Ethereum-Dev-Plan-preview.pdf
 
 Roadmap: https://web.archive.org/web/20140723210722/https://ethereum.org/pdfs/Ethereum-Roadmap.pdf
 
