@@ -20,35 +20,21 @@ Ethereum incorporates the latest developments in peer-to-peer and cryptoeconomic
 
 ### Technology
 
-Ethereum is a platform that makes it much easier to develop and use next-generation decentralized applications.
+1. Ethereum is a platform that makes it much easier to develop and use next-generation decentralized applications.
 
-2
+2. Ether, Ethereum's cryptofuel, powers the applications on the decentralized network.
 
-Ether, Ethereum's cryptofuel, powers the applications on the decentralized network.
+3. A small amount of ether is required in order to send any transaction, and the more computation a transaction requires the more ether it consumes.
 
-3
+4. A contract is a program that lives inside of Ethereum's secure, decentralized environment. Contracts are the main building blocks of Ethereum.
 
-A small amount of ether is required in order to send any transaction, and the more computation a transaction requires the more ether it consumes.
+5. Sending a transaction to a contract causes its code to execute. Contracts can store data, send transactions and interact with other contracts.
 
-4
+6. Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
 
-A contract is a program that lives inside of Ethereum's secure, decentralized environment. Contracts are the main building blocks of Ethereum.
+7. Mist, the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
 
-5
-
-Sending a transaction to a contract causes its code to execute. Contracts can store data, send transactions and interact with other contracts.
-
-6
-
-Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
-
-7
-
-Mist, the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
-
-8
-
-Ethereum can be used as a building block to help codify, decentralize, secure and trade almost anything.
+8. Ethereum can be used as a building block to help codify, decentralize, secure and trade almost anything.
 
 
 ### Cool Philosophy Blurb
