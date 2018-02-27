@@ -8,7 +8,7 @@ One of the primary focuses of the Ethereum team is building development tools to
 
 Easy to Use
 
-The Mist client aims to provide a solid, unified experience for browsing the decentralized web, making the user experience as simple as installing and using an app on Android or Chrome. Mist handles account management, key management, blockchain synchronization and other details for you so you don't have to.
+The [Mist](https://github.com/ethereum/mist) client aims to provide a solid, unified experience for browsing the decentralized web, making the user experience as simple as installing and using an app on Android or Chrome. Mist handles account management, key management, blockchain synchronization and other details for you so you don't have to.
 
 Trustful
 
@@ -32,7 +32,7 @@ Ethereum incorporates the latest developments in peer-to-peer and cryptoeconomic
 
 6. Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
 
-7. Mist, the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
+7. [Mist](https://github.com/ethereum/mist), the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
 
 8. Ethereum can be used as a building block to help codify, decentralize, secure and trade almost anything.
 
