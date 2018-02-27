@@ -1,6 +1,6 @@
 Direction: arrange horizontally in a similar way to the four data points on http://www.synereo.com/
 
-# Easy to Develop
+### Easy to Develop
 
 One of the primary focuses of the Ethereum team is building development tools to help users more easily develop applications on top of the Ethereum platform. All of the technical complexities of managing distributed consensus and maintaining common peer-to-peer networking infrastructure are handled by ourselves so you don't have to.
 
