@@ -17,7 +17,7 @@ Sending a transaction to a contract causes its code to execute. Contracts can st
 Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
 
 ### 7
-Mist, the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
+[Mist](https://github.com/ethereum/mist), the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
 
 ### 8
 Ethereum can be used to codify, decentralize, secure and trade almost anything.
