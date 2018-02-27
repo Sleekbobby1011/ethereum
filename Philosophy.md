@@ -14,26 +14,7 @@ Ethereum's decentralized infrastructure is guaranteed to continue being online f
 
 ### Advanced
 
-Ethereum incorporates the latest developments in peer-to-peer and cryptoeconomic technology, giving developers and users access to top-of-the-line guarantees of flexibility, accessibility and speed among technologies of its class. The underlying technologies continue to be in active development, and developers will gain access to new features as soon as we are comfortable that they will be ready for use.
-
-### Technology
-
-1. Ethereum is a platform that makes it much easier to develop and use next-generation decentralized applications.
-
-2. Ether, Ethereum's cryptofuel, powers the applications on the decentralized network.
-
-3. A small amount of ether is required in order to send any transaction, and the more computation a transaction requires the more ether it consumes.
-
-4. A contract is a program that lives inside of Ethereum's secure, decentralized environment. Contracts are the main building blocks of Ethereum.
-
-5. Sending a transaction to a contract causes its code to execute. Contracts can store data, send transactions and interact with other contracts.
-
-6. Contracts can be used to build currencies, financial derivatives, voting systems, decentralized organizations, data feeds, title registries and thousands of other applications.
-
-7. [Mist](https://github.com/ethereum/mist), the Ethereum client, is your window to the decentralized world. Decentralized applications built for Ethereum can be used inside of Mist, and look and feel just like any other web application would.
-
-8. Ethereum can be used as a building block to help codify, decentralize, secure and trade almost anything.
-
+Ethereum incorporates the latest developments in peer-to-peer and cryptoeconomic technology, giving developers and users access to top-of-the-line guarantees of flexibility, accessibility and speed among technologies of its class. The underlying [technologies](https://github.com/ethereum/ethereum.org/wiki/Technology) continue to be in active development, and developers will gain access to new features as soon as we are comfortable that they will be ready for use.
 
 ### Cool Philosophy Blurb
 
