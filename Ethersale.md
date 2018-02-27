@@ -27,3 +27,5 @@ Whitepaper (ether sale version): https://ethereum.org/pdfs/EthereumWhitePaper.pd
 
 
 Total ether purchased: 60102216
+
+https://blog.ethereum.org/2014/07/22/launching-the-ether-sale/
