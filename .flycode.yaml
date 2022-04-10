@@ -1,0 +1,11 @@
+version: "0.1"
+environments:
+  - name: master
+    branch: master
+    mode: pull-request
+apps:
+  - name: Ethereum
+    path: Master
+    text-resources:
+      - path: spec-main/api-session-spec.ts
+        format: simple-value-value
